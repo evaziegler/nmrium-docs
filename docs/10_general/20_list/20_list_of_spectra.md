@@ -21,3 +21,5 @@ To show one or to spectra in the workspace, press the icon for each spectrum.
 In each spectrum line you find general information about the solvent.
 
 ![](./solvent.png)
+
+That´s all.
