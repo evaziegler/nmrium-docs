@@ -12,7 +12,13 @@ NMRium try to find out what are the zones that should be integrated and the mult
 Click the Ranges picking button. If your spectrum contains negative signals, set a check mark in the box Detect negative. Then press the Auto ranges picking button. The ranges found by NMRium are listed in the Ranges panel on the right side of the workspace.
 
 ![ranges1](Ranges1.png)
-          
+ 
+You can also automatically determine the ranges in the panel Spectra . To use this feature, open the panel Spectra on the right side of the workspace and select a core. Click the button "Automatic Ranges/Zones picking for all spectra". The ranges will be determined automatically for all stored spectra of the core. You can find the ranges determined by NMRium in the Ranges panel on the right side of the workspace. 
+
+Translated with www.DeepL.com/Translator (free version)
+ 
+ ![ranges](Ranges.png)
+         
 ## Correction by hand
 
 ## Edit multiplets manually
