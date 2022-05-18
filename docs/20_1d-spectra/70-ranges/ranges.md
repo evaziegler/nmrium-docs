@@ -14,19 +14,25 @@ Click the Ranges picking button. If your spectrum contains negative signals, set
 ![ranges1](Ranges1.png)
  
 You can also automatically determine the ranges in the panel Spectra . To use this feature, open the panel Spectra on the right side of the workspace and select a core. Click the button "Automatic Ranges/Zones picking for all spectra". The ranges will be determined automatically for all stored spectra of the core. You can find the ranges determined by NMRium in the Ranges panel on the right side of the workspace. 
-
-Translated with www.DeepL.com/Translator (free version)
  
- ![ranges](Ranges.png)
+![ranges](Ranges.png)
          
 ## Correction by hand
+
+To correct the selected ranges, open the ranges panel. Then press shift on the keyboard and drag a zone. The system shows the selected zone on the panel and analyses it.
 
 ## Edit multiplets manually
 
 ## Set a reference
 
+Click the Panel button to the left of the spectrum. Find your solvent signal (or the reference signal). When you point at it with the crosshairs, press the shift key and the left mouse button at the same time. The value of the signal will be shown both in the spectrum and in a list on the right side of the spectrum in the Peaks field. Select one of the two displayed values (in the spectrum single click with the left mouse button, in the list double click with the left mouse button) and enter the correct reference value.
+
 ## Specify the sum of integrated protons
 
+The default sum of all integrated protons is 100. To change this sum, click on the sum symbol on the ranges panel. A grey box appears. Enter the total number of integrated protons and click "Set". In the list on the right side, the relative number of protons for the respective integral is indicated.
+
 ## Change the value of integration for individual signals
+
+Open the panel ranges. Click rel H for the interessted proton. Then add the new value and press enter. The values of all the other protons also change.
 
 ## Further information
